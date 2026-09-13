@@ -1,0 +1,5 @@
+swindler_users.json
+swindler_users_backup.json
+swindler.log
+__pycache__/
+*.pyc
