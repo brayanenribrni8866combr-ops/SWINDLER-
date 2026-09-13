@@ -4,10 +4,10 @@
 
 «SWINDLER é um toolkit de terminal desenvolvido para estudos, testes locais e demonstrações de segurança, validação de dados e automação em ambiente controlado.»
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
-"Platform" (https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green)
-"Status" (https://img.shields.io/badge/Status-Em%20desenvolvimento-orange)
-"License" (https://img.shields.io/badge/License-Educational-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-orange)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 ---
 
